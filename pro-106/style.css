@@ -1,0 +1,42 @@
+body
+{
+    font-family: 'League Gothic', sans-serif;
+    background-color: rgb(242, 196, 117);
+}
+
+.header_div
+{
+    color:black;
+    font-size: 50px;
+    letter-spacing: 1px;
+    font-weight: bolder;
+}
+
+.header_div p{
+    color:darkblue;
+    letter-spacing: 2px; 
+    font-size: 30px;
+    font-weight:200;
+}
+.main_div button
+{
+   color: rgb(0, 0, 0);
+    background-color: rgb(152, 244, 244);
+    margin-top: 30px;
+    width: 140px;
+    height: 50;
+    font-weight: bolder;
+    font-size: 27px;
+    letter-spacing: 4px;
+}
+.copy_right_footer
+{
+    position: fixed;
+    color: black;
+    bottom: 0;
+    width: 100%;
+    font-size: 20px;
+    line-height: 3;
+    text-align: center;
+    
+}
